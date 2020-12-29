@@ -1,0 +1,58 @@
+export const foodItems = [
+    {
+        id: '1',
+        name: 'Tandoori Paneer Pizza',
+        type: 'veg',
+        price: "350",
+        category: "Pizza's",
+        description: "Cottage cheese, mixed peppers",
+    },
+    {
+        id: '2',
+        name: "Finch's Super ROll",
+        type: 'veg',
+        price: "575",
+        category: "Shushi and Maki roll",
+        description: "",
+    },
+    {
+        id: '3',
+        name: 'Murg Biryani',
+        type: 'non-veg',
+        price: "495",
+        category: "Biryani",
+        description: "Served with smoked chicken",
+    },
+    {
+        id: '4',
+        name: 'Funghi Selvatchi',
+        type: 'veg',
+        price: "525",
+        category: "Pizza's",
+        description: "Shitake, shimeji,cremini mushroom",
+    },
+    {
+        id: '5',
+        name: 'Tawa Masala chicken',
+        type: 'non-veg',
+        price: "620",
+        category: "Meals COmbo",
+        description: "Chicken cooked in tawa masala gravy",
+    },
+    {
+        id: '6',
+        name: 'Farm Delight Pizza',
+        type: 'veg',
+        price: "495",
+        category: "Pizza's",
+        description: "Tomatoes, mushroom, onion, capsicum, cheese",
+    },
+    {
+        id: '7',
+        name: 'Red Thai chicken curry',
+        type: 'non-veg',
+        price: "340",
+        category: "Pizza's",
+        description: "Chicken in red thai curry and served with steam rice",
+    }
+]
